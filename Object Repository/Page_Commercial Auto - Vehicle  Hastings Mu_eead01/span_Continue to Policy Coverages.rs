@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue to Policy Coverages</name>
+   <tag></tag>
+   <elementGuidId>2acb9fc1-87dc-4b4e-8080-700874a774b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hmi-navigation-button > span.ui-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='hmi-navigation-button']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ebd88ffa-cd92-4f8d-a412-5fc9a54fb935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>6832333c-de1d-4138-a918-0a98e0ea0475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Policy Coverages</value>
+      <webElementGuid>3dbd8983-dbfd-4890-bb38-a3f5cedd3f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-navigation-button&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>bffdc5af-0382-4edd-a03b-dd44861bbac3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='hmi-navigation-button']/span[2]</value>
+      <webElementGuid>c9826e88-3ca7-45af-b2ce-6f4f7f8948f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vehicle List'])[1]/following::span[2]</value>
+      <webElementGuid>12210877-bec9-4bc4-ad1a-6c3a5dd8655f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Main'])[1]/following::span[3]</value>
+      <webElementGuid>5956a2a8-52f0-4e5e-acdd-70f4c19e6ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2009 - 2023 Hastings Mutual Insurance Company'])[1]/preceding::span[2]</value>
+      <webElementGuid>d29d1eda-8490-4db0-8790-dbb97d55b813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue to Policy Coverages']/parent::*</value>
+      <webElementGuid>288e1a06-cc9d-4e82-b480-ebebebec3118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button[3]/span[2]</value>
+      <webElementGuid>cbfaff86-a820-4ce5-a1b8-a4b06606cddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue to Policy Coverages' or . = 'Continue to Policy Coverages')]</value>
+      <webElementGuid>716b956b-9a83-4646-b7e7-fa2729204a91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

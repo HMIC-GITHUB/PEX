@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Close</name>
+   <tag></tag>
+   <elementGuidId>e6a6add1-5a9b-4e87-9366-cae2edaef970</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popupLayer_popupForm']/div/div[2]/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.button-popup-cancel.ui-button-text-icon-primary.ui-state-hover > span.ui-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>25c714d7-d169-4719-b44f-5e0839f1c4a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>8d902d0a-0dca-42b1-9ccb-ee8b8d89ac16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>f27d2a58-e928-4e98-bcd8-be3937a72cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popupLayer_popupForm&quot;)/div[@class=&quot;hmi-layout-wrap&quot;]/div[2]/button[@class=&quot;ui-button ui-widget ui-state-default ui-corner-all button-popup-cancel ui-button-text-icon-primary ui-state-hover&quot;]/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>271e566a-d143-4ff7-b655-a48e3a715948</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popupLayer_popupForm']/div/div[2]/button/span[2]</value>
+      <webElementGuid>ad09269b-6f6d-4597-a951-640b0e556d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Farm Call Center at x1880'])[2]/following::span[2]</value>
+      <webElementGuid>47503693-ec33-4b57-87eb-8d1014e87d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='more than 9 locations'])[2]/following::span[2]</value>
+      <webElementGuid>c532c436-adee-42c1-a55e-c700da0e106c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/button/span[2]</value>
+      <webElementGuid>48b92587-7dc8-42df-9cc4-a66eca2f6f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Close' or . = 'Close')]</value>
+      <webElementGuid>e50f037e-f30f-444d-80ee-c5e5f4fadee2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

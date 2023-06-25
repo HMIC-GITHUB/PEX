@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue to Package Endorsements</name>
+   <tag></tag>
+   <elementGuidId>06e5cdc8-74c7-4952-adc4-8bd19070734b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.hmi-button-next.hmi-button-navigateAndGo.button-trigger-validate.ui-button-text-icons.ui-state-hover > span.ui-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/table/tbody/tr/td[3]/div/form/table[2]/tbody/tr/td[3]/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f37a22ac-e3e1-41b7-bb44-efee878fde0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>f7d61e29-9587-4f44-9320-33bf6a427286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Package Endorsements</value>
+      <webElementGuid>71aac150-9b1e-49cf-989d-3e994cac6434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[3]/div[@class=&quot;hmi-layout-wrap ui-widget-content&quot;]/form[1]/table[@class=&quot;hmi-table-centered&quot;]/tbody[1]/tr[1]/td[3]/button[@class=&quot;ui-button ui-widget ui-state-default ui-corner-all hmi-button-next hmi-button-navigateAndGo button-trigger-validate ui-button-text-icons ui-state-hover&quot;]/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>7b9d57e0-5cae-4bd2-a024-a2e8065391d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[3]/table/tbody/tr/td[3]/div/form/table[2]/tbody/tr/td[3]/button/span[2]</value>
+      <webElementGuid>e81e1134-8b70-48ad-bcfd-2adb51ccd189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back to Locations'])[1]/following::span[2]</value>
+      <webElementGuid>fc5f30a1-3a8e-4618-a5fd-e3a8ddd54816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule a Peak Season Farm Personal item'])[1]/following::span[4]</value>
+      <webElementGuid>c440dbf7-fe8e-497b-ae47-a5a1820005f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue to Package Endorsements']/parent::*</value>
+      <webElementGuid>7618eea7-4e8e-4a66-9a70-3f7277b2b8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/button/span[2]</value>
+      <webElementGuid>89b51bde-1dfd-472e-9e44-60c3288403c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue to Package Endorsements' or . = 'Continue to Package Endorsements')]</value>
+      <webElementGuid>6b3e41d4-b2b9-46b7-b878-fe9df9da209e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

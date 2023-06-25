@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue to Application</name>
+   <tag></tag>
+   <elementGuidId>462886ea-6a49-4054-8c16-9dbdd658a503</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/table[2]/tbody/tr/td[2]/div/form/div[5]/button[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.hmi-button-next.hmi-button-navigateAndGo.button-trigger-validate.ui-button-text-icons.ui-state-hover > span.ui-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>42cb0768-4da4-4ca4-992c-a9b920901ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>65d0285d-a5ee-46b9-9931-cec1e5bbf493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Application</value>
+      <webElementGuid>fb8ff056-4493-40d2-b192-7261d841c41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/table[2]/tbody[1]/tr[1]/td[2]/div[@class=&quot;wrap ui-widget-content&quot;]/form[1]/div[5]/button[@class=&quot;ui-button ui-widget ui-state-default ui-corner-all hmi-button-next hmi-button-navigateAndGo button-trigger-validate ui-button-text-icons ui-state-hover&quot;]/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>69c3ec12-e258-4295-894c-f52d36099dab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[3]/table[2]/tbody/tr/td[2]/div/form/div[5]/button[2]/span[2]</value>
+      <webElementGuid>532df87d-c1cd-4f0c-bd64-3735961a0d38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Loss History'])[1]/following::span[2]</value>
+      <webElementGuid>67725bfa-8ba2-4399-99b2-eb1ee81e7803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Personal Umbrella Quote'])[1]/following::span[4]</value>
+      <webElementGuid>b49bce24-87e8-4ad3-9f39-c614bb3a50cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2009 - 2023 Hastings Mutual Insurance Company'])[1]/preceding::span[2]</value>
+      <webElementGuid>acef0b29-3432-4b89-87ac-dd12ef042fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[2]</value>
+      <webElementGuid>3990ba69-898a-481e-957b-1f2fd214cd26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue to Application' or . = 'Continue to Application')]</value>
+      <webElementGuid>f24d6729-5c2b-4ff4-8eb7-f67a23234e86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

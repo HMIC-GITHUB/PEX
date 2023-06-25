@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Order Financial Reports</name>
+   <tag></tag>
+   <elementGuidId>903c2985-a368-4121-baf4-8c3bb8c1e22f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#continue-button > span.ui-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='continue-button']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7cd96fd8-2ff5-4cf7-abe8-79a2d24c34cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>7ac43b3a-ac30-4d60-9299-9b158b81668b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order Financial Reports</value>
+      <webElementGuid>5298d8d1-dbdf-46f0-820e-80939365fda8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;continue-button&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>cd694a49-b560-4ce1-9bcf-f1df7de1d42c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='continue-button']/span[2]</value>
+      <webElementGuid>18ab2ec3-ea43-4574-a0e2-2e69c07f5cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Hit'])[1]/following::span[2]</value>
+      <webElementGuid>c3abc1ba-e200-4f17-aa64-9ded74a14e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report has not been ordered'])[1]/following::span[2]</value>
+      <webElementGuid>25675674-db4f-4e58-8940-874fb03c17eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Limited Cooking'])[1]/preceding::span[3]</value>
+      <webElementGuid>5b740370-26e3-4f72-9365-0195c23ad891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue to Prior Carrier and Loss Information'])[1]/preceding::span[5]</value>
+      <webElementGuid>f70f07bf-556c-4501-9a16-e09cfc965e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order Financial Reports']/parent::*</value>
+      <webElementGuid>80b7edc5-1001-4338-8d0b-8cb3a5d54bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/table/tbody/tr/td/a/span[2]</value>
+      <webElementGuid>ceecf1d9-f07b-4078-8efb-33a2e1599244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Order Financial Reports' or . = 'Order Financial Reports')]</value>
+      <webElementGuid>85777291-5d49-4be2-8686-e27ec7efa6c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

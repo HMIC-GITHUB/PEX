@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Coverage</name>
+   <tag></tag>
+   <elementGuidId>b4178075-babb-44cf-8309-c6ea4e81313c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.show-if-AudioVisualDataElectronicEquipmentApplies.notavailablewithcomprehensiveonlydetail > td:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div/div[2]/div/div/form/div[3]/table[2]/tbody/tr[10]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a76146ea-85b4-4b05-bf21-8d0cbbb64891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>5cfe5e4c-fd8a-4c3f-8da1-a3feeb910255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Coverage</value>
+      <webElementGuid>d9abc5c4-3bd9-470d-b0f9-434e3155a28a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;hmi-layout-column-container ui-helper-clearfix&quot;]/div[2]/div[@class=&quot;ui-widget-content&quot;]/div[1]/form[1]/div[@class=&quot;hmi-layout-wrap&quot;]/table[@class=&quot;hmi-table hmi-label-left hmi-w100&quot;]/tbody[1]/tr[@class=&quot;show-if-AudioVisualDataElectronicEquipmentApplies notavailablewithcomprehensiveonlydetail&quot;]/td[2]</value>
+      <webElementGuid>5ac6a7d9-abc9-4749-abc3-85eb3e6fe875</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div/div[2]/div/div/form/div[3]/table[2]/tbody/tr[10]/td[2]</value>
+      <webElementGuid>a23f311e-cf59-4674-a168-a3ab81c30a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audio, Visual &amp; Data Electronic Equipment, All Other'])[1]/following::td[2]</value>
+      <webElementGuid>0a7413cf-a4d4-472d-80e4-f3847c96e13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deductible'])[3]/following::td[7]</value>
+      <webElementGuid>6c637ec6-7fd8-43ed-b523-029b0e4af7e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tapes, Records, &amp; Discs'])[1]/preceding::td[6]</value>
+      <webElementGuid>43148ad5-56da-4c32-9fa6-69cd8831d2a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[2]</value>
+      <webElementGuid>bd791814-3b4c-4adf-a14b-9aa39f8f9ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' Coverage' or . = ' Coverage')]</value>
+      <webElementGuid>78a68abc-8fd1-4cf2-8436-cd9d95e8a393</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

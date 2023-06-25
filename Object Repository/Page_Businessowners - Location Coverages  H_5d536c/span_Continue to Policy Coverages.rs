@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue to Policy Coverages</name>
+   <tag></tag>
+   <elementGuidId>08ba0f45-bb44-48ab-a1ba-ca844f9d7d1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.hmi-button-next.hmi-button-navigateAndGo.button-trigger-validate.ui-button-text-icons.ui-state-hover > span.ui-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div/div[2]/table/tbody/tr/td[2]/div/form/table/tbody/tr/td[5]/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e0ced95e-9665-4775-906f-f54cec18665b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>e713c1ff-081d-48ca-a940-a1c780a55e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Policy Coverages</value>
+      <webElementGuid>e569113f-431f-4c7d-a73e-65ff941792f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/table[1]/tbody[1]/tr[1]/td[2]/div[@class=&quot;wrap ui-widget-content&quot;]/form[1]/table[@class=&quot;hmi-table-centered&quot;]/tbody[1]/tr[1]/td[5]/button[@class=&quot;ui-button ui-widget ui-state-default ui-corner-all hmi-button-next hmi-button-navigateAndGo button-trigger-validate ui-button-text-icons ui-state-hover&quot;]/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>88b5e208-9ac0-4814-96d0-ae0ef1abc1f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div/div[2]/table/tbody/tr/td[2]/div/form/table/tbody/tr/td[5]/button/span[2]</value>
+      <webElementGuid>22ac9018-1d8b-47da-85f0-f0f72bee3adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add another location'])[1]/following::span[2]</value>
+      <webElementGuid>fe4210b2-9e38-40e6-910d-170c3d3a3fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Building 1'])[1]/following::span[4]</value>
+      <webElementGuid>4416e774-3e2e-4ed7-81f0-ab5b6d05ff94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue to Policy Coverages']/parent::*</value>
+      <webElementGuid>eef206fb-ac0d-46db-b065-cf04028ea431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/button/span[2]</value>
+      <webElementGuid>318bf911-464a-4f6d-bdb3-89e56562705b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue to Policy Coverages' or . = 'Continue to Policy Coverages')]</value>
+      <webElementGuid>d6316a6f-0c0b-4532-a7f0-40e1e14b25ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

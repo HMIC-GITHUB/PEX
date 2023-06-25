@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>e660092e-5a16-46f3-99c9-77bc789ec018</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qual_ol_box']/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.qual_x_svg_x</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '×' or . = '×')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>39530f5c-7ce5-476e-b221-01464ebe9c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qual_x_svg_x</value>
+      <webElementGuid>287a3a53-5694-4ece-b8d5-1bc667d25b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>733975ce-5bc9-4293-8bb8-c2377a297907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qual_ol_box&quot;)/button[@class=&quot;qual_x_close qual_opened&quot;]/span[@class=&quot;qual_x_svg_x&quot;]</value>
+      <webElementGuid>d7123abb-0620-40e3-94e8-4d067a4d99e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qual_ol_box']/button/span[2]</value>
+      <webElementGuid>04ee59aa-a3d4-4bc7-bf56-b1e71fd65a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent Dashboard'])[2]/following::span[2]</value>
+      <webElementGuid>fbc7eebf-9b3c-4c0e-8d6a-882cf35c1ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>283b3221-be64-4146-b3e8-83e393d795fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '×' or . = '×')]</value>
+      <webElementGuid>a6947972-1ba2-4ef4-be99-3daf1e6660bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

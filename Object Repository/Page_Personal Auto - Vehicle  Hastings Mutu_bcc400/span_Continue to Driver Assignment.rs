@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue to Driver Assignment</name>
+   <tag></tag>
+   <elementGuidId>cd724abe-6803-43f4-bb8b-3863a89ba763</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='hmi-navigation-button']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hmi-navigation-button > span.ui-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3f74f97a-c1d7-427d-bf79-5d57d8900976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>b55af312-18f2-4f96-87d4-e7b725eb812c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Driver Assignment</value>
+      <webElementGuid>5ac8e31a-037d-472a-8df3-462233aa039c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-navigation-button&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>cba44096-8e00-4ee4-8d6a-0849fe8ca475</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='hmi-navigation-button']/span[2]</value>
+      <webElementGuid>4442fd9b-8c67-4159-9512-5eb20044e419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vehicle List'])[1]/following::span[2]</value>
+      <webElementGuid>74b5d116-6c83-4a26-8498-eb7969bcffa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Driver Information'])[1]/following::span[3]</value>
+      <webElementGuid>492079ea-e5ad-440c-a737-2dd2c82415ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2009 - 2023 Hastings Mutual Insurance Company'])[1]/preceding::span[2]</value>
+      <webElementGuid>530a8949-b238-40c5-919e-5ee84142501a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue to Driver Assignment']/parent::*</value>
+      <webElementGuid>d00c5285-6218-4658-ba4e-b3e524de9ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span[2]</value>
+      <webElementGuid>ea9adb6f-b5f0-4f61-9c0b-5e73b825d7e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue to Driver Assignment' or . = 'Continue to Driver Assignment')]</value>
+      <webElementGuid>e8a5f2fb-c2e3-4c3d-8cc5-39f80538f265</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

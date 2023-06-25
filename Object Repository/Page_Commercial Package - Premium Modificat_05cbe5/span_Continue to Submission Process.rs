@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue to Submission Process</name>
+   <tag></tag>
+   <elementGuidId>a1a0d987-7cc5-4913-9d21-b1aedfecae29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.hmi-button-next.hmi-button-navigateAndGo.button-trigger-validate.ui-button-text-icons.ui-state-hover > span.ui-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[2]/div/div/form/div[7]/button[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f8a9de1-b53c-4907-ba2b-8594744d8d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>da311eb0-3788-4610-9472-f08915a9d88e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Submission Process</value>
+      <webElementGuid>8b617f85-2f23-4894-9914-992e9521d240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;ui-widget-content&quot;]/div[1]/form[1]/div[7]/button[@class=&quot;ui-button ui-widget ui-state-default ui-corner-all hmi-button-next hmi-button-navigateAndGo button-trigger-validate ui-button-text-icons ui-state-hover&quot;]/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>63ec2420-f6a9-4018-8f66-cc34f6dbb9bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[2]/div/div/form/div[7]/button[2]/span[2]</value>
+      <webElementGuid>7a6605b0-1a37-45c1-8f50-43697fae6ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to General Liability'])[1]/following::span[2]</value>
+      <webElementGuid>435a640f-b135-4aed-b444-f752e97e0d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recalculate Premium'])[1]/following::span[4]</value>
+      <webElementGuid>4c2a281a-23b3-4d6b-ab98-5757be7f73db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue to Submission Process']/parent::*</value>
+      <webElementGuid>64ca470a-db6d-4125-ac96-2bc4b97164c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[2]</value>
+      <webElementGuid>e290039a-f7dd-44de-9660-3a0e1776a852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue to Submission Process' or . = 'Continue to Submission Process')]</value>
+      <webElementGuid>80d51ab6-e2bc-40ac-ab4f-b43d541c88a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

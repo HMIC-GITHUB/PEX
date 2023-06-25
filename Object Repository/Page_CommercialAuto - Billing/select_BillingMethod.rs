@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_BillingMethod</name>
+   <tag></tag>
+   <elementGuidId>c8888405-0cc6-48e6-a720-9d85b2f7a4c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ChangeBillingAtRenewal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='BillingMethod']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1134e1ec-99fa-41ee-91fa-790bc625e1a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>group</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>2b9e9dbb-2412-4ab2-9597-b6c05f5e9c0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ChangeBillingAtRenewal</value>
+      <webElementGuid>c5bd441d-13e9-45a6-9f37-137443696ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ChangeBillingAtRenewal</value>
+      <webElementGuid>98896bf5-ec8e-4b66-8dc8-df57a2f96d50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmi-ui hmi-ui-select hmi-ui-editor</value>
+      <webElementGuid>ea593e93-2221-439f-9b48-6a7c4dfe2c0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>33</value>
+      <webElementGuid>02a78395-fe78-4fc1-9bcb-476b558f3047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+(Select)
+
+Yes
+
+No
+
+</value>
+      <webElementGuid>bd89831f-c7ae-43a9-97c4-a84319c5e4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ChangeBillingAtRenewal&quot;)</value>
+      <webElementGuid>0f36fc54-b2fa-45a6-8e6d-06925ca1d2ae</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

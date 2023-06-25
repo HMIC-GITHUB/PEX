@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Building</name>
+   <tag></tag>
+   <elementGuidId>bda8bdf1-0e72-4787-93df-686c50b3160d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-button.ui-widget.ui-state-default.ui-corner-all.green.hmi-button-navigateAndGo.button-trigger-validate.ui-button-text-icon-primary.ui-state-hover > span.ui-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e280c58a-3783-4168-a39f-c20ec25848a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>52041234-bd0e-47ac-85e7-b0c6b5474468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Building</value>
+      <webElementGuid>10462702-9c0f-4a99-a35a-6f0bd8f47741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;hmi-layout-column-container ui-helper-clearfix&quot;]/div[2]/div[@class=&quot;ui-widget-content&quot;]/div[1]/form[1]/div[@class=&quot;hmi-layout-wrap&quot;]/div[@class=&quot;hmi-buttons-building&quot;]/a[@class=&quot;ui-button ui-widget ui-state-default ui-corner-all green hmi-button-navigateAndGo button-trigger-validate ui-button-text-icon-primary ui-state-hover&quot;]/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>e09a53b3-2850-4178-bd2e-9c1d2185ce03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[2]/div[2]/div[2]/div/div/form/div/div[12]/a/span[2]</value>
+      <webElementGuid>4891756d-b72a-4da3-b2b1-6d1ff2d16267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::span[2]</value>
+      <webElementGuid>86ebab0b-048a-406d-aa55-d848fc9a8696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trailer - Business Personal Property'])[1]/following::span[3]</value>
+      <webElementGuid>c87d7680-d1ea-49f8-b66e-bb40da2d780c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>d6f3410d-c50d-4fd3-a118-314cafb1dbf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/a/span[2]</value>
+      <webElementGuid>e7172304-708d-45ad-877f-3c8717b73847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Building' or . = 'Add Building')]</value>
+      <webElementGuid>9c39e925-88b5-4c8d-a6eb-92910ef3508f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

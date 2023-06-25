@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue to Recreational Vehicles</name>
+   <tag></tag>
+   <elementGuidId>8e6755c7-2a45-465a-8057-643c37cedf75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.hmi-button-next.hmi-button-navigateAndGo.button-trigger-validate.ui-button-text-icons.ui-state-hover > span.ui-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/table/tbody/tr/td[3]/div/form/table[2]/tbody/tr/td[3]/button/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4e521080-83ae-4cc3-affe-1bd62a755530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>37bbd4e1-5d46-4826-afa2-f72c1ca1ef9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Recreational Vehicles</value>
+      <webElementGuid>e1fb9c0b-0c20-4c64-b278-07680d31ea26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[3]/div[@class=&quot;hmi-layout-wrap ui-widget-content&quot;]/form[1]/table[@class=&quot;hmi-table-centered&quot;]/tbody[1]/tr[1]/td[3]/button[@class=&quot;ui-button ui-widget ui-state-default ui-corner-all hmi-button-next hmi-button-navigateAndGo button-trigger-validate ui-button-text-icons ui-state-hover&quot;]/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>06e235b2-52d9-4710-8bc0-7d9042ab354f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[3]/table/tbody/tr/td[3]/div/form/table[2]/tbody/tr/td[3]/button/span[2]</value>
+      <webElementGuid>0b3f4a1e-206b-4042-80a6-f45f6092f866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back to Farm Liability Coverages'])[1]/following::span[2]</value>
+      <webElementGuid>089519af-f279-4fa0-97a7-2e9a1053b82c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Liability Exposure'])[1]/following::span[4]</value>
+      <webElementGuid>0cdad679-c977-44f9-befc-156a6de94ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue to Recreational Vehicles']/parent::*</value>
+      <webElementGuid>45dd62f9-9c20-493f-822f-458737fe111b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/button/span[2]</value>
+      <webElementGuid>f897befd-87ad-419c-b44d-c2d10ce7b848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue to Recreational Vehicles' or . = 'Continue to Recreational Vehicles')]</value>
+      <webElementGuid>d1db20a2-50ea-4a9a-aff3-1ad109269360</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

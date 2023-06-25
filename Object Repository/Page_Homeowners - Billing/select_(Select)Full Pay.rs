@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_(Select)Full Pay</name>
+   <tag></tag>
+   <elementGuidId>16b1b1b6-d35c-4c4f-bcd7-ef10b8cded91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='InstallmentPlan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#InstallmentPlan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fe9a3ff9-c5a7-4946-960a-51c3d8b0b541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>group</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>59bd4a27-11c9-4aca-bc20-21771d847db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>InstallmentPlan</value>
+      <webElementGuid>486667fa-8cde-44c4-ac3f-afe4a2e4a828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>InstallmentPlan</value>
+      <webElementGuid>fc8c0061-ba32-44c8-99fc-e94fc03e8d90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>installmentPlan hmi-ui hmi-ui-select hmi-ui-editor</value>
+      <webElementGuid>3acb5fc4-3677-49d3-8e1f-b108c41db2f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>2b2b176b-a2bd-408f-b507-1028241644b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+(Select)Full Pay</value>
+      <webElementGuid>8410a30c-9d6f-41f3-88fa-34148afa5e65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;InstallmentPlan&quot;)</value>
+      <webElementGuid>4bb10c6c-5a3a-4644-a4aa-7532e641e873</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='InstallmentPlan']</value>
+      <webElementGuid>7622bfe2-aeac-4925-92c5-0bebc9d6dc6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[2]/table/tbody/tr/td/div/form/div[5]/table/tbody/tr[3]/td[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>832e5090-514e-4a27-8e83-8e30882eb183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installment Plan'])[1]/following::select[1]</value>
+      <webElementGuid>ecef66ae-0e42-4cbe-874f-7a50c4946c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How will this policy be billed?'])[1]/following::select[2]</value>
+      <webElementGuid>2a91d375-4ca5-44e9-b7e7-7be6db9f713a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suggested Down Payment:'])[1]/preceding::select[1]</value>
+      <webElementGuid>79e053f6-6693-40f3-8245-af77c3a9fb30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Pay'])[2]/preceding::select[1]</value>
+      <webElementGuid>572a7868-f344-4635-adf0-e05879265169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>e64969ef-1c0b-4b00-a8ce-4dc157926eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'InstallmentPlan' and @name = 'InstallmentPlan' and (text() = '
+
+(Select)Full Pay' or . = '
+
+(Select)Full Pay')]</value>
+      <webElementGuid>7ea1d37b-9957-4a53-9457-22a9282ff39b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

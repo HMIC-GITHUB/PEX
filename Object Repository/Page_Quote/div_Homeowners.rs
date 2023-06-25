@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Homeowners</name>
+   <tag></tag>
+   <elementGuidId>eed47c82-13dc-4baf-9298-4dcffd3f3d64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-2-option-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'react-select-2-option-8']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7a0ad71-52ae-401d-9b2f-6b0a5db877da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-8lc6ki-option</value>
+      <webElementGuid>830a51d0-0ae5-40e7-ac83-64ec66097750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-2-option-1</value>
+      <webElementGuid>a86c01fe-f279-4c0f-8fe5-7cff81b6ef7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>8a251d8f-c0fd-4f5d-b7d0-f35fbf0e77a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commercial Auto</value>
+      <webElementGuid>31a8c647-fd73-43ba-87f9-ba1d58c991d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-2-option-1&quot;)</value>
+      <webElementGuid>f4335dbe-3b54-49a2-b334-84dc9cad7ba8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

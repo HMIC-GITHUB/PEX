@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Personal Umbrella</name>
+   <tag></tag>
+   <elementGuidId>b7f5540b-9a96-467e-9ea6-430db1505f7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-2-option-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'react-select-2-option-10']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc31228a-33e6-4414-aa0d-d40980fb90d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-8lc6ki-option</value>
+      <webElementGuid>491f6a1d-9521-428c-af8c-1c6add95ee88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-2-option-1</value>
+      <webElementGuid>b38aa5e3-037e-414b-8b97-89657f965ca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>1347fa83-f847-4590-b01e-5b09a3b6650b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Commercial Auto</value>
+      <webElementGuid>43fecd03-d4d9-4828-b652-8652f9976387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-2-option-1&quot;)</value>
+      <webElementGuid>1ff32f2e-99fc-467b-8cde-eda904a7a606</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

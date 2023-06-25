@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Policy</name>
+   <tag></tag>
+   <elementGuidId>a5823700-a026-4f96-9c11-98685bee77cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ui-widget-content.ui-state-default.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[2]/div[2]/div/div/form/div/div/div/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e6a859d1-99fc-4a1f-ab41-47b0b4229f38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-content ui-state-default ui-state-hover</value>
+      <webElementGuid>4750dae9-0f1c-4d25-bc4b-a71149c01c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Policy #:</value>
+      <webElementGuid>6d7468d4-878f-40c4-bfdf-271da331d6cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;hmi-layout-column-container ui-helper-clearfix&quot;]/div[2]/div[@class=&quot;ui-widget-content&quot;]/div[1]/form[1]/div[1]/div[@class=&quot;hmi-layout-wrap&quot;]/div[@class=&quot;list-container&quot;]/table[@class=&quot;hmi-table hmi-label-left&quot;]/tbody[1]/tr[1]/td[@class=&quot;ui-widget-content ui-state-default ui-state-hover&quot;]</value>
+      <webElementGuid>56af2ac1-f0ed-4943-a9ba-efa43f74524f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[2]/div[2]/div/div/form/div/div/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>3e9a73b9-a82c-43cd-99a5-f080de01a2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#1'])[1]/following::td[1]</value>
+      <webElementGuid>0ffbca12-6735-4620-a2c6-9058e91c73e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automobile Liability'])[1]/following::td[2]</value>
+      <webElementGuid>07d2b5d7-56be-4635-98eb-2c569eac26ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Date:'])[1]/preceding::td[3]</value>
+      <webElementGuid>fd3ed0c7-39be-4514-93f4-99e73712f018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>e247fd8a-d226-4f58-89c5-32935a7bfbaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Policy #:' or . = 'Policy #:')]</value>
+      <webElementGuid>4a2e196a-fbbd-4d98-8f15-251d9d742823</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

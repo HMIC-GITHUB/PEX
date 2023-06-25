@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Coverage A - Dwelling_ui-widget-content</name>
+   <tag></tag>
+   <elementGuidId>72c89558-1895-4ea6-a7a9-afba8dc0bba4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper-coverages']/div/table/tbody/tr[2]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.show-if-coverageAAvailable > td.ui-widget-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e861e622-dbec-4c53-a272-72904ee6ebf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-content</value>
+      <webElementGuid>95bfecfa-dba6-47aa-ae82-57cae380de5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>849dd535-09d3-4f84-809a-57f0243ba780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper-coverages&quot;)/div[@class=&quot;hmi-layout-wrap show-if-formSelected&quot;]/table[@class=&quot;hmi-table&quot;]/tbody[1]/tr[@class=&quot;show-if-coverageAAvailable&quot;]/td[@class=&quot;ui-widget-content&quot;]</value>
+      <webElementGuid>b449b8ff-ce76-4824-9aa4-03f9ed87bf3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper-coverages']/div/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>7cdca616-eae0-4288-995b-95ec33e68d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coverage A - Dwelling'])[1]/following::td[1]</value>
+      <webElementGuid>9916afd0-3da5-40ee-807a-26d306fcb3e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dwelling Coverage Limits &amp; Deductibles'])[1]/following::td[2]</value>
+      <webElementGuid>3df3c890-e3b3-4d18-af0f-a9e58ab5420c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Coverage A Amount – Building Additions and Alterations'])[1]/preceding::td[3]</value>
+      <webElementGuid>0c9ab669-b96f-460e-9760-7b8ba827df4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coverage B - Other Structures'])[1]/preceding::td[7]</value>
+      <webElementGuid>f0e32b6e-8db7-46b5-8074-9fc1f071d3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>bbbe2777-81dd-4678-84e3-a2711818e18a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

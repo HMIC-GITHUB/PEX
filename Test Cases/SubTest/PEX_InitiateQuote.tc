@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PEX_InitiateQuote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fe3b392-8568-4cac-a9ee-8b6b90e704ce</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>bc0069ba-d331-4b98-ac11-f7a9f2b6bae5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>bc0069ba-d331-4b98-ac11-f7a9f2b6bae5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>LOB</value>
+      <variableId>26eed5a7-816b-44ac-9e39-b59b1b83e12c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Commercial Auto'</defaultValue>
+      <description></description>
+      <id>26eed5a7-816b-44ac-9e39-b59b1b83e12c</id>
+      <masked>false</masked>
+      <name>LOB</name>
+   </variable>
+</TestCaseEntity>

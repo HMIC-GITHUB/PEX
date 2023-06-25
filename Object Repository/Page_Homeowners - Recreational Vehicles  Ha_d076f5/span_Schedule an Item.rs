@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Schedule an Item</name>
+   <tag></tag>
+   <elementGuidId>d3aea95e-eb74-4e61-9018-2345d9e773e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='addRecreationalVehicle']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#addRecreationalVehicle > span.ui-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fd98bca8-ad4d-45cc-aee0-a94c9fa321f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>867be173-03b7-48ed-bc2a-c9dac54b541d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Schedule an Item</value>
+      <webElementGuid>ccec05db-343b-49fa-905b-05f0531123f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addRecreationalVehicle&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>b5619204-a2a3-4a95-bd16-186774356abf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='addRecreationalVehicle']/span[2]</value>
+      <webElementGuid>d4ecacd0-059f-4bd6-aeb4-396fd1dadac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Items Scheduled'])[1]/following::span[2]</value>
+      <webElementGuid>e69042ab-c344-454f-aec6-bc09d4f5c22a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Recreational Motor Vehicles'])[1]/following::span[2]</value>
+      <webElementGuid>ddc2f316-4e41-4a77-9ed5-a7424118692d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Scheduled Personal Property'])[1]/preceding::span[2]</value>
+      <webElementGuid>3269b37a-cc4f-4b1a-8539-84be6f059726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue to Watercraft'])[1]/preceding::span[4]</value>
+      <webElementGuid>a79f4de7-26b6-45a6-9612-5a60965c3bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Schedule an Item']/parent::*</value>
+      <webElementGuid>2c580f67-0d06-444e-9b3b-c2a50e7904e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[2]</value>
+      <webElementGuid>12526453-77ca-4b84-965a-3aa471fa0ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Schedule an Item' or . = 'Schedule an Item')]</value>
+      <webElementGuid>9643b4f1-c2ab-4aaa-8174-7d8273cfcd1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

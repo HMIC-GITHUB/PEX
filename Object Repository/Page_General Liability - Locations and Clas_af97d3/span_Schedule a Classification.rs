@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Schedule a Classification</name>
+   <tag></tag>
+   <elementGuidId>983d4ab9-1c72-4042-9837-c4aa524be35a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='hmi-button-schedule-classification']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hmi-button-schedule-classification > span.ui-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d77b1624-6f59-4ac6-8c22-39fc766bd411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>d2f5db4b-440b-406b-90d0-e9aa34f5b6f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Schedule a Classification</value>
+      <webElementGuid>6b1993e3-fd52-4218-9662-4f62d2a55463</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-button-schedule-classification&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>0d62b607-ffe5-4dc1-9330-339dc994207d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='hmi-button-schedule-classification']/span[2]</value>
+      <webElementGuid>230b2d80-885f-4d45-ba3c-874e4c3fe31f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule all Classifications for this location'])[1]/following::span[2]</value>
+      <webElementGuid>795f9ad9-17ff-45ef-a7fe-ead865b4027f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classifications'])[1]/following::span[2]</value>
+      <webElementGuid>503e0b78-8a58-48d0-8149-6876e91e2eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sch']/parent::*</value>
+      <webElementGuid>da7e103e-996f-40f2-8c8a-4dd1761cb69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span[2]</value>
+      <webElementGuid>f5b1ad2e-3e70-4d40-83b5-f67eba0e7448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Schedule a Classification' or . = 'Schedule a Classification')]</value>
+      <webElementGuid>ac10148f-be4a-4dae-8766-324f9cc5ee56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Your New Business Application has uploade_0d6b0b</name>
+   <tag></tag>
+   <elementGuidId>1a59b38c-5e53-4bfd-8267-9c034048f14a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.ui-state-highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div/div/form/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ccfe99a0-4e7b-42b0-a745-978d4140f655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-state-highlight</value>
+      <webElementGuid>7aafc496-5e19-46a9-a3f6-4322c777c20c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Your New Business Application has uploaded successfully. </value>
+      <webElementGuid>dd8146cc-1288-4885-9b40-578287930fc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;ui-widget-content&quot;]/div[1]/form[1]/p[@class=&quot;ui-state-highlight&quot;]</value>
+      <webElementGuid>2407cd36-10a1-45df-b477-d74c54174955</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div/div/form/p</value>
+      <webElementGuid>7d54cc2f-9b28-4b40-96e0-866303fb5ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for using Policy Express.'])[1]/following::p[1]</value>
+      <webElementGuid>59de1619-5b8b-44d0-8f64-fcdbee6db976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit to Hastings Mutual'])[1]/following::p[1]</value>
+      <webElementGuid>085d9963-ce6e-4952-9dad-b117566e88ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://policyexpress-qa.hastingsmutual.com/Quote/70126192-ACV'])[1]/preceding::p[1]</value>
+      <webElementGuid>578cb815-a810-4413-83d1-2ac90c24dfe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your New Business Application has uploaded successfully.']/parent::*</value>
+      <webElementGuid>0c42e50f-d2f2-4790-9c22-4d90a0ed9867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>93d08a0b-05fb-4cc0-b0d6-6166e084a74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Your New Business Application has uploaded successfully. ' or . = ' Your New Business Application has uploaded successfully. ')]</value>
+      <webElementGuid>4ea06287-d3cf-4756-b78d-e392f9685b78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_(Select)Full PaySemi-annualQuarterly_69046b_1</name>
+   <tag></tag>
+   <elementGuidId>71f0ce92-bc17-4b5e-806b-944202b5e145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#RenewalInstallmentPlan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='RenewalInstallmentPlan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>fed78db0-5ee7-4d98-b257-21f882b68ae0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>group</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>27d02858-33a9-47b2-80bf-6b5d1f24d599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>RenewalInstallmentPlan</value>
+      <webElementGuid>4b26c63e-4eb5-4d93-a068-c86013942339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>RenewalInstallmentPlan</value>
+      <webElementGuid>5274b24a-3e98-4ccd-b887-ea9524c82b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>installmentPlan hmi-ui hmi-ui-select hmi-ui-editor</value>
+      <webElementGuid>afa0d4f7-5f9e-4893-8bc9-2c6fdb944e7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>35</value>
+      <webElementGuid>771d2d58-3521-4c39-b336-bee0fda71b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+(Select)Full PaySemi-annualQuarterly20% down with 8 monthly installments</value>
+      <webElementGuid>25633829-ce13-410c-a3d1-3be877bec172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RenewalInstallmentPlan&quot;)</value>
+      <webElementGuid>35aac7bb-6150-4927-b8b2-f6ccbca761bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='RenewalInstallmentPlan']</value>
+      <webElementGuid>c097ccc8-f3ba-455b-830a-03b90e7f34ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[2]/table/tbody/tr/td/div/form/div[14]/table/tbody/tr[3]/td[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>f302f4d5-9527-4d29-977f-739b87bc6c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installment Plan'])[2]/following::select[1]</value>
+      <webElementGuid>f5a421b7-2010-48bc-9bb3-cd2f41e43fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How will this policy be billed at renewal?'])[1]/following::select[2]</value>
+      <webElementGuid>0d53e0a4-d0ec-44cb-8144-cffb8d6368cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back'])[1]/preceding::select[1]</value>
+      <webElementGuid>6cfa9dd2-02ce-4cdc-b114-35225e4c69c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::select[1]</value>
+      <webElementGuid>3cf6f4a2-ca11-4bb3-964b-8e0258b10433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>be018425-fc13-49ed-b438-f94430a8500c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'RenewalInstallmentPlan' and @name = 'RenewalInstallmentPlan' and (text() = '
+
+(Select)Full PaySemi-annualQuarterly20% down with 8 monthly installments' or . = '
+
+(Select)Full PaySemi-annualQuarterly20% down with 8 monthly installments')]</value>
+      <webElementGuid>01114265-6e7a-40b1-95a3-f151bfdd38c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

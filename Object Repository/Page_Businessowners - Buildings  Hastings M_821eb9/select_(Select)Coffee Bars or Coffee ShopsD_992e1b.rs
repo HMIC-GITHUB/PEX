@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_(Select)Coffee Bars or Coffee ShopsD_992e1b</name>
+   <tag></tag>
+   <elementGuidId>82c6a105-f148-4916-8d8e-f97a140f0592</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ClassificationId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ClassificationId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9615300b-281d-4758-bb34-a7cf5cae1699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>group</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>0bddd139-5b49-4aea-a2b8-b633e4b8a2b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ClassificationId</value>
+      <webElementGuid>a3c75040-da7a-4443-9101-7d0eb095bde3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ClassificationId</value>
+      <webElementGuid>07a50518-fdad-47c2-a6dc-39250568d654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iesize hmi-ui</value>
+      <webElementGuid>b1e523e3-7cb9-4b96-8434-6b096985ddfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>/Businessowners/Classification</value>
+      <webElementGuid>b9b5b7ef-b2f9-4d74-898f-4b42b549a286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>00a4d7ce-da5d-4a57-a3ea-1503547f7051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+(Select)Coffee Bars or Coffee ShopsDelicatessens &amp; Sandwich ShopsDonut ShopsDrug StoresIce Cream &amp; Yogurt Stores - year-round operationPizza Shop (not eligible for Hired and Nonowned Auto Liability)</value>
+      <webElementGuid>6e2e6ff9-3c71-4e6b-a5f9-a2eaf3e0f532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ClassificationId&quot;)</value>
+      <webElementGuid>772e6454-32b8-457b-955b-39c7383bc627</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ClassificationId']</value>
+      <webElementGuid>0df11ba4-7d77-496c-b93b-f8f293475a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div/div[2]/table/tbody/tr/td[2]/div/form/div[2]/div/div/div/table/tbody/tr[2]/td[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>41bba23a-e203-4d14-a98d-d798a10beeaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classification'])[1]/following::select[1]</value>
+      <webElementGuid>d8617770-a26d-46f2-92b9-aa3d71d22f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type of Risk'])[1]/following::select[2]</value>
+      <webElementGuid>b41a0eb2-9ef9-482e-8bdd-00f9ff9aa63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Class Code'])[1]/preceding::select[1]</value>
+      <webElementGuid>9c9f0126-49a7-49d7-8098-4af8969a765d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Construction'])[1]/preceding::select[1]</value>
+      <webElementGuid>6363540a-f186-4142-b609-0311ac2c1153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>5a7f39fa-4708-4cad-a3e2-3a7f6635afa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ClassificationId' and @name = 'ClassificationId' and (text() = '
+
+(Select)Coffee Bars or Coffee ShopsDelicatessens &amp; Sandwich ShopsDonut ShopsDrug StoresIce Cream &amp; Yogurt Stores - year-round operationPizza Shop (not eligible for Hired and Nonowned Auto Liability)' or . = '
+
+(Select)Coffee Bars or Coffee ShopsDelicatessens &amp; Sandwich ShopsDonut ShopsDrug StoresIce Cream &amp; Yogurt Stores - year-round operationPizza Shop (not eligible for Hired and Nonowned Auto Liability)')]</value>
+      <webElementGuid>bd641024-13ad-48c3-8ac3-42a6aca50d21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

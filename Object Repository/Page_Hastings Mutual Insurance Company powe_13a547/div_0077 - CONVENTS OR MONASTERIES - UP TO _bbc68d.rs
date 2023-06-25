@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_0077 - CONVENTS OR MONASTERIES - UP TO _bbc68d</name>
+   <tag></tag>
+   <elementGuidId>db4175ae-66ce-47e9-bd37-22e7b72850dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2009 - 2023 Hastings Mutual Insurance Company'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45d95a81-7e3e-40b7-9cb2-276d8e048f0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>0077 - CONVENTS OR MONASTERIES - UP TO 10 UNITS</value>
+      <webElementGuid>fc94f7a9-cdee-4ff5-9fec-48b778111fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected</value>
+      <webElementGuid>7c72ac53-f364-4e93-9685-25e30ae39b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0077 - CONVENTS OR MONASTERIES - UP TO 10 UNITS</value>
+      <webElementGuid>3c8776a2-7d1c-4239-9879-eb6c512bd069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Autocomplete_ae254&quot;)/div[@class=&quot;selected&quot;]</value>
+      <webElementGuid>fe8e4a8e-9d74-4e5f-831d-5186ff4b2c30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Autocomplete_ae254']/div</value>
+      <webElementGuid>ba421440-c638-43dc-9c12-9a2f1ee32faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © 2009 - 2023 Hastings Mutual Insurance Company'])[1]/following::div[5]</value>
+      <webElementGuid>a7c3dadb-8958-4b6e-8b6d-3d03968375b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'Autocomplete_ae254', '&quot;', ')/div[1]')])[1]/preceding::div[1]</value>
+      <webElementGuid>1ab6332a-239b-467d-a673-9f0434cc30cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='- CONVENTS OR MONASTERIES - UP TO 10 UNITS']/parent::*</value>
+      <webElementGuid>152f0a2b-cdae-4b80-a8be-f56dd21dd2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>1ddef769-54a5-49d1-aafb-663ac21edd52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '0077 - CONVENTS OR MONASTERIES - UP TO 10 UNITS' and (text() = '0077 - CONVENTS OR MONASTERIES - UP TO 10 UNITS' or . = '0077 - CONVENTS OR MONASTERIES - UP TO 10 UNITS')]</value>
+      <webElementGuid>e6b35b73-e537-453a-9628-da040791e76b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Start a New Business</name>
+   <tag></tag>
+   <elementGuidId>11c29a07-059b-4a9e-8591-6cd0618bd943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-tile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainer']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f04803d-b2e6-4315-809c-096b72d9395e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-tile</value>
+      <webElementGuid>c695800b-6f96-4c8e-a0fc-503c35fad4fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start a New Business</value>
+      <webElementGuid>60d55b0f-9a6d-4e00-9683-4c066d12a11b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainer&quot;)/div[@class=&quot;gw-tiles gw-tiles-large&quot;]/div[@class=&quot;gw-tiles-aligner&quot;]/div[@class=&quot;gw-tile&quot;]</value>
+      <webElementGuid>057912e4-5d57-487b-8320-a7cc392ee1cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainer']/div/div/div</value>
+      <webElementGuid>b90ed2b7-61b8-4287-9b88-12f27a7d43fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Business Dashboard'])[1]/following::div[2]</value>
+      <webElementGuid>23df205f-98be-41d5-8ef8-3ca318251f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HELP'])[4]/following::div[10]</value>
+      <webElementGuid>2d776f3d-eb55-40db-b110-be08ed38c581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Quotes'])[1]/preceding::div[5]</value>
+      <webElementGuid>c6bfe5b9-e0de-4fca-bbbb-1856a5f42c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>690edee8-8452-457e-95b0-ea107b5db637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Start a New Business' or . = 'Start a New Business')]</value>
+      <webElementGuid>190bf763-43cb-48d2-b766-662dae09b59c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Premium Modifications</name>
+   <tag></tag>
+   <elementGuidId>89a113ea-2048-4cb7-8e0d-42b727ab7fb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-state-default.ui-corner-top.hmi-button-navigateAndGo.button-trigger-validate.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div[2]/div[2]/ul/li[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d0d4c197-40a9-4eb6-b321-b2bdc40783f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/CommercialPackage/ExpressQuote/PremiumModifications/70126329-CPP</value>
+      <webElementGuid>95eb71a1-bddd-4d62-aa68-615266a84261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>route</name>
+      <type>Main</type>
+      <value>/CommercialPackage/ExpressQuote/PremiumModifications/70126329-CPP</value>
+      <webElementGuid>bef1a155-e2dd-4082-8b82-a2913a99c548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-state-default ui-corner-top hmi-button-navigateAndGo button-trigger-validate ui-state-hover</value>
+      <webElementGuid>4988376c-1f77-449c-bde0-5cfa494a00e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>groupname</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>10460fe6-c28d-4691-a4f3-a01848288c30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>7cd46271-60f7-478e-8e61-9e8664055b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Premium Modifications</value>
+      <webElementGuid>8d3b791c-cce1-4834-8fb5-d523dbdfc6eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/ul[@class=&quot;ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all&quot;]/li[7]/a[@class=&quot;ui-state-default ui-corner-top hmi-button-navigateAndGo button-trigger-validate ui-state-hover&quot;]</value>
+      <webElementGuid>e8dc122a-d8b8-4383-a2a8-e3ef8ec107a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[2]/div[2]/ul/li[7]/a</value>
+      <webElementGuid>1d89cdae-773b-46e4-9c3b-cc63da218908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Premium Modifications')]</value>
+      <webElementGuid>4eed79d6-034b-430f-b7fc-8ea977f8ee23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Liability'])[1]/following::a[1]</value>
+      <webElementGuid>b7658579-737b-4b13-88b3-adfd3e48982d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inland Marine'])[1]/following::a[2]</value>
+      <webElementGuid>a9158b67-a109-4a3f-9f39-553d9ca1fc41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policy Limits'])[1]/preceding::a[1]</value>
+      <webElementGuid>683f967a-c8a4-4417-b341-0d95671718be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Premium Modifications']/parent::*</value>
+      <webElementGuid>9b10524b-8615-451f-9ca0-e191d10e75f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/CommercialPackage/ExpressQuote/PremiumModifications/70126329-CPP')]</value>
+      <webElementGuid>caae27eb-bcef-43ed-8311-625373ee961f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>c3c34559-24e6-477e-895c-161e20a2836f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/CommercialPackage/ExpressQuote/PremiumModifications/70126329-CPP' and (text() = 'Premium Modifications' or . = 'Premium Modifications')]</value>
+      <webElementGuid>cb1ba098-5a19-4e93-9bfc-ac47004b806d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

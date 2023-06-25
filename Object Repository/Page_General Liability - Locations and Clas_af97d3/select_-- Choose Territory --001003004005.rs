@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Choose Territory --001003004005</name>
+   <tag></tag>
+   <elementGuidId>9d5df41b-3d34-4c95-b50c-3817e0893ca0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Territory']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Territory</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d2ba4c3f-a2f8-487e-b97c-590fdd4b5a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>group</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>8aa521cd-d591-42e0-8f2d-f5488532442a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Territory</value>
+      <webElementGuid>2026adf7-222e-4651-82e0-c4b769071331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Territory</value>
+      <webElementGuid>31798423-60a4-46a9-9c23-40b7ecc14b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hmi-ui hmi-ui-select hmi-ui-editor</value>
+      <webElementGuid>7140cb8a-2368-4fec-82bf-b7021dce6645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>e08dff83-54a2-46ea-adfc-af33c9b4ad01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+-- Choose Territory --001003004005</value>
+      <webElementGuid>545dce8e-9643-4e21-83c6-d65d1f72f1c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Territory&quot;)</value>
+      <webElementGuid>1e06ace7-7dd4-4c27-9ddb-e0bba8edb103</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Territory']</value>
+      <webElementGuid>a3e0684c-fb94-448f-b496-513ff333b5de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[2]/div[2]/div[2]/div/div/form/div[2]/table/tbody/tr[6]/td[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>1ca0b67a-1e96-44bb-9db2-0971ec8b1b1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Territory Definitions'])[1]/following::select[1]</value>
+      <webElementGuid>a5e231fb-80c1-4aed-8de4-9c3af1bf438b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classifications'])[1]/preceding::select[1]</value>
+      <webElementGuid>3fac64c2-a4cf-4e7d-8af1-16503d87d2b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule all Classifications for this location'])[1]/preceding::select[1]</value>
+      <webElementGuid>baa1ee93-ac1e-4106-ac2e-bf6196f15bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>588f4845-db71-43b3-bc5c-c0bfa141e6a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Territory' and @name = 'Territory' and (text() = '
+
+-- Choose Territory --001003004005' or . = '
+
+-- Choose Territory --001003004005')]</value>
+      <webElementGuid>b57c42fa-2d38-45a6-a00c-ee92e5363ac7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

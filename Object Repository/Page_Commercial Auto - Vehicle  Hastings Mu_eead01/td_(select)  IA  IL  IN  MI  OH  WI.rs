@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_(select)  IA  IL  IN  MI  OH  WI</name>
+   <tag></tag>
+   <elementGuidId>d971768a-3bea-4938-8f78-8bdad8581271</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div/div[2]/div/div/form/div[2]/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>3c018e04-23bc-44bc-b47b-51e04d83d14c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> (select)  IA  IL  IN  MI  OH  WI </value>
+      <webElementGuid>12159165-6193-4bbc-af62-6e1900c18b54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;hmi-layout-column-container ui-helper-clearfix&quot;]/div[2]/div[@class=&quot;ui-widget-content&quot;]/div[1]/form[1]/div[@class=&quot;hmi-layout-wrap&quot;]/table[@class=&quot;hmi-table hmi-label-left&quot;]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>7909c902-076d-40ae-a907-f18be6ad04e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div/div[2]/div/div/form/div[2]/table/tbody/tr/td[2]</value>
+      <webElementGuid>41366b18-00ce-4822-928e-ba7f2033d0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::td[1]</value>
+      <webElementGuid>4511b734-d726-4f13-bf6b-3604d0ce47f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating Information'])[1]/following::td[2]</value>
+      <webElementGuid>50d1a77c-0282-4ff9-a370-c2d1596742f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Territory Definitions'])[1]/preceding::td[3]</value>
+      <webElementGuid>6b547e48-fc4c-4899-be56-f9d048f695c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/table/tbody/tr/td[2]</value>
+      <webElementGuid>3b93e956-bc83-481e-a421-8e8383372a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' (select)  IA  IL  IN  MI  OH  WI ' or . = ' (select)  IA  IL  IN  MI  OH  WI ')]</value>
+      <webElementGuid>fb0933d7-ab7a-44b9-a650-778141405a49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

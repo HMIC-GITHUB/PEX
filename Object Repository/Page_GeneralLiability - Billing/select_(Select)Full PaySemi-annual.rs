@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_(Select)Full PaySemi-annual</name>
+   <tag></tag>
+   <elementGuidId>96aea144-361b-488b-a62d-2800a8dc90b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='InstallmentPlan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#InstallmentPlan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e37c2da4-92de-4e73-85fb-93813249eb83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>group</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>51175b3b-c583-4497-9d8e-c1ba84ffb2aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>InstallmentPlan</value>
+      <webElementGuid>d8861ca8-0ec7-4364-b0e2-90e1d7925d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>InstallmentPlan</value>
+      <webElementGuid>864e9bfe-cc17-4064-a57a-d2d481dfb78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>installmentPlan hmi-ui hmi-ui-select hmi-ui-editor</value>
+      <webElementGuid>7109a2ee-49e5-4a9a-9e19-759984fbf254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>7a31be81-0ba5-4c6e-b33a-f59dc659fe85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+(Select)Full PaySemi-annual</value>
+      <webElementGuid>005d200c-5251-482f-9c58-4360906b1112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;InstallmentPlan&quot;)</value>
+      <webElementGuid>fcc4032d-6d9c-4fdf-954c-564cd62b4de2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='InstallmentPlan']</value>
+      <webElementGuid>f868b3d6-5ada-452d-aa2f-592c56852069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[2]/table/tbody/tr/td/div/form/div[6]/table/tbody/tr[2]/td[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>1b4df86b-ae2a-4655-b658-6217e8a74490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installment Plan'])[1]/following::select[1]</value>
+      <webElementGuid>0bc093ea-3e13-405f-8fd6-762ed1e655bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How will this policy be billed?'])[1]/following::select[2]</value>
+      <webElementGuid>5fd1e462-3ba4-4002-a723-ced15cd88e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Does an account number exist for this applicant?'])[1]/preceding::select[1]</value>
+      <webElementGuid>62432684-92f2-4c8f-a472-e6a009b73b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Existing Account Number'])[1]/preceding::select[2]</value>
+      <webElementGuid>75ae2fb7-45b7-493c-abc8-c96ffa4ea9c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/table/tbody/tr/td/select</value>
+      <webElementGuid>169d61ed-5c3f-4cdf-85a7-6e050ec11c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'InstallmentPlan' and @name = 'InstallmentPlan' and (text() = '
+
+(Select)Full PaySemi-annual' or . = '
+
+(Select)Full PaySemi-annual')]</value>
+      <webElementGuid>4bc9ae07-ea7a-4d5f-a072-d9d66326d713</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

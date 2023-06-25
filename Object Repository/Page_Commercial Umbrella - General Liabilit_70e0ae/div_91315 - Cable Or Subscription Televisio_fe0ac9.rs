@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_91315 - Cable Or Subscription Televisio_fe0ac9</name>
+   <tag></tag>
+   <elementGuidId>c0474d85-b822-4397-80fa-9c92ed86d86c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@title = '91315 - Cable Or Subscription Television Companies' and (text() = '91315 - Cable Or Subscription Television Companies' or . = '91315 - Cable Or Subscription Television Companies')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>41d722a3-f115-4c3f-be97-79810f1b704f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>91315 - Cable Or Subscription Television Companies</value>
+      <webElementGuid>fca553fd-9846-420a-93f8-5985abb6eb5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected</value>
+      <webElementGuid>c49113ca-2ddc-4ab4-b757-099bcb31150d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>91315 - Cable Or Subscription Television Companies</value>
+      <webElementGuid>75a4c555-4f24-41e7-83ec-1293d69dd479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Autocomplete_85386&quot;)/div[@class=&quot;selected&quot;]</value>
+      <webElementGuid>30aa2c7c-8949-42e0-8af9-66d0c894b061</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Autocomplete_85386']/div</value>
+      <webElementGuid>e53f1d39-1f4c-4399-8012-2d7937c8c0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'Autocomplete_85386', '&quot;', ')/div[1]')])[1]/following::div[4]</value>
+      <webElementGuid>3b72f4d3-556c-4a37-ade5-57c2e4bbc0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='15 - Cable Or Subscription Television Companies']/parent::*</value>
+      <webElementGuid>97fa6aee-5148-4c66-a81e-58cfd1568666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>45879f7c-4605-4496-8d08-886ddc1ea419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '91315 - Cable Or Subscription Television Companies' and (text() = '91315 - Cable Or Subscription Television Companies' or . = '91315 - Cable Or Subscription Television Companies')]</value>
+      <webElementGuid>d6d52516-de72-480a-873f-4dea079ea6f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

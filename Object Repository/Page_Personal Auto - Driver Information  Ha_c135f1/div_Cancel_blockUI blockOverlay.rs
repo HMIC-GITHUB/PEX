@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cancel_blockUI blockOverlay</name>
+   <tag></tag>
+   <elementGuidId>e2676321-06a2-4928-87e8-96560bb0ffe2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='policy-express']/div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.blockUI.blockOverlay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab9a28ed-737d-480a-9a4f-b14ea9ea2297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blockUI blockOverlay</value>
+      <webElementGuid>ec00875e-6a51-45a9-9bda-34b5117b5909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Click to unblock</value>
+      <webElementGuid>1a941819-2b6d-4e5d-b7d8-c59f9ba59f88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;policy-express&quot;)/div[@class=&quot;blockUI blockOverlay&quot;]</value>
+      <webElementGuid>21e35452-e9ab-4b7a-a634-e269e8b1fa1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='policy-express']/div[7]</value>
+      <webElementGuid>771069ba-9f43-448e-94ab-8b4dc5b49f6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]</value>
+      <webElementGuid>d27350e1-43dc-4bc2-9b4f-c7dc0aac194b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Click to unblock']</value>
+      <webElementGuid>8371f500-d34f-41ad-b516-f86344388e45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

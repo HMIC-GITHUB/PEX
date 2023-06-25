@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_10010 - Air Conditioning Equipment - De_25ccab</name>
+   <tag></tag>
+   <elementGuidId>e8e3d4f9-2bc2-490c-aa2b-c5b8b5f4c911</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[1]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>964a76c4-e6c5-4b8a-86a8-3f6dc25f4c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>10010 - Air Conditioning Equipment - Dealers Or Distributors Only</value>
+      <webElementGuid>b75db8b4-569e-45f8-971d-c46e364b403c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected</value>
+      <webElementGuid>10bcfb80-515c-4e9a-a77e-e3c578fbdbac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10010 - Air Conditioning Equipment - Dealers Or Distributors Only</value>
+      <webElementGuid>4af30450-f551-4af3-a728-3a35f925ba0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Autocomplete_59a1f&quot;)/div[@class=&quot;selected&quot;]</value>
+      <webElementGuid>917236ca-674f-44b6-b70a-2cb4746ba7c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Autocomplete_59a1f']/div</value>
+      <webElementGuid>e80ff40f-2fc7-4b0a-8df5-b2573860c88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[1]/following::div[4]</value>
+      <webElementGuid>40f6cc3d-e074-4da3-aff5-17ddadcc6c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='- Air Conditioning Equipment - Dealers Or Distributors Only']/parent::*</value>
+      <webElementGuid>44c33791-73fa-49fb-9b08-ff0ea92e3d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div</value>
+      <webElementGuid>c1b8b704-38d6-49db-b37e-0355efb9cfdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '10010 - Air Conditioning Equipment - Dealers Or Distributors Only' and (text() = '10010 - Air Conditioning Equipment - Dealers Or Distributors Only' or . = '10010 - Air Conditioning Equipment - Dealers Or Distributors Only')]</value>
+      <webElementGuid>c16bd015-df48-43f1-a895-dbef37f6ed5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

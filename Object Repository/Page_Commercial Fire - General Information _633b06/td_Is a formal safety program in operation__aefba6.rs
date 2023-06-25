@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Is a formal safety program in operation__aefba6</name>
+   <tag></tag>
+   <elementGuidId>03312c01-46c4-4a67-9f41-b43f6720b6bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > table.hmi-table.hmi-label-left > tbody > tr > td.ui-widget-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[2]/div[2]/div/div/form/div/table/tbody/tr[6]/td[2]/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>1bcc121e-d3ad-4759-b929-cc293117618b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-content</value>
+      <webElementGuid>49cfd681-d4cc-477d-84b8-7050b69b82af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;hmi-layout-column-container ui-helper-clearfix&quot;]/div[2]/div[@class=&quot;ui-widget-content&quot;]/div[1]/form[1]/div[@class=&quot;hmi-layout-wrap&quot;]/table[@class=&quot;hmi-table hmi-label-left&quot;]/tbody[1]/tr[@class=&quot;show-if-FormalSafetyProgramAnswer-is-yes&quot;]/td[2]/table[@class=&quot;hmi-table hmi-label-left&quot;]/tbody[1]/tr[1]/td[@class=&quot;ui-widget-content&quot;]</value>
+      <webElementGuid>290a2675-f6ad-442b-a846-87ad0b75080d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[2]/div[2]/div/div/form/div/table/tbody/tr[6]/td[2]/table/tbody/tr/td</value>
+      <webElementGuid>77a1efc9-92e7-4427-b202-1f40024b49af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is a formal safety program in operation?'])[1]/following::td[3]</value>
+      <webElementGuid>88e4c1ba-3456-430b-acc0-a80e05d8b3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='% Owned'])[2]/following::td[10]</value>
+      <webElementGuid>207de4cf-c893-4da9-a402-0f77bcadc724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety Manual'])[1]/preceding::td[1]</value>
+      <webElementGuid>c5ddffc4-8b46-49f5-bce0-48a5583f0c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly Meetings'])[1]/preceding::td[3]</value>
+      <webElementGuid>eb077f79-f504-42a6-a23e-6f7b53a27491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/table/tbody/tr/td</value>
+      <webElementGuid>f1c34939-81c4-472d-8fcc-9b4958c89f4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

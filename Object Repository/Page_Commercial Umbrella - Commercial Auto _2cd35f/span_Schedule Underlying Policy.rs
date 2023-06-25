@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Schedule Underlying Policy</name>
+   <tag></tag>
+   <elementGuidId>100f41a9-05ec-4fae-a907-10589aee8232</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#add-policy-button > span.ui-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='add-policy-button']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8087decd-0b4b-440f-8bb1-8fef407c06e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>a3d5bd00-dd91-4ba2-948a-a8241f84cc4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Schedule Underlying Policy</value>
+      <webElementGuid>902e0ba2-2627-46f4-affa-be23c01c389a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-policy-button&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>a4a3772a-f3d6-418f-a53a-31821929d36d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='add-policy-button']/span[2]</value>
+      <webElementGuid>66e8e854-371c-471a-b599-63cf04380d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do scheduled units have seating for 7 or more passengers?'])[1]/following::span[2]</value>
+      <webElementGuid>85a3ac3c-7559-46b8-b83f-347dfc217c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Would you like to increase your limits?'])[1]/following::span[2]</value>
+      <webElementGuid>913a3bdc-603b-4ebb-9b7e-acfddbd3b3bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Businessowners'])[1]/preceding::span[2]</value>
+      <webElementGuid>5614cc99-567b-449e-8325-4f9293dc8688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sch']/parent::*</value>
+      <webElementGuid>c5cc5e0f-ad7c-4897-930a-d2ec64609ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span[2]</value>
+      <webElementGuid>70f0ccbe-bd28-4ae8-91c3-d077ebed285b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Schedule Underlying Policy' or . = 'Schedule Underlying Policy')]</value>
+      <webElementGuid>b7a4637d-25c8-499c-9fd1-879f8dd9c70f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

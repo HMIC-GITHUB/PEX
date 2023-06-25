@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_concat(id(, , policy-express, , )divcla_a0e6d2</name>
+   <tag></tag>
+   <elementGuidId>7fa4b9ad-5f3d-43a3-8a79-2de37c884278</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='policy-express']/div[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.blockUI.blockOverlay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2dbf9c5-71b1-4653-849c-69f4c80ec78c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blockUI blockOverlay</value>
+      <webElementGuid>4f9193e7-bcd9-448e-947a-88d34c7338d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;policy-express&quot;)/div[@class=&quot;blockUI blockOverlay&quot;]</value>
+      <webElementGuid>72d7e80b-f5db-4d26-8d15-e6fe0ea78a3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='policy-express']/div[7]</value>
+      <webElementGuid>7b0566e5-dc60-4062-ac7c-cd5250cc10ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]</value>
+      <webElementGuid>8d58a4fe-58c4-4d54-abcd-84ed36301790</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

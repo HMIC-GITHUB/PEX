@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Zip Code_ui-widget-content</name>
+   <tag></tag>
+   <elementGuidId>e7fcf266-e4f6-4abf-85ed-780bdeab1ed7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td.ui-widget-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmi-layout-mainContent']/div/div/div[2]/table/tbody/tr/td[2]/div/form/div[2]/table[2]/tbody/tr[4]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>64bfefdb-ddce-4c14-b702-d95508e36346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-content</value>
+      <webElementGuid>18a2cf20-8d26-4a99-afa7-0c0fb06fdf36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-layout-mainContent&quot;)/div[1]/div[1]/div[@class=&quot;ui-tabs ui-widget ui-widget-content ui-corner-all&quot;]/table[1]/tbody[1]/tr[1]/td[2]/div[@class=&quot;wrap ui-widget-content&quot;]/form[1]/div[@class=&quot;hmi-layout-wrap&quot;]/table[@class=&quot;hmi-table hmi-label-left&quot;]/tbody[1]/tr[4]/td[@class=&quot;ui-widget-content&quot;]</value>
+      <webElementGuid>56f5b4f7-d172-4c08-b823-fe0cca3f22bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmi-layout-mainContent']/div/div/div[2]/table/tbody/tr/td[2]/div/form/div[2]/table[2]/tbody/tr[4]/td[2]</value>
+      <webElementGuid>78cfbd5f-9e54-4c21-b6fe-11acd961bb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip Code'])[1]/following::td[1]</value>
+      <webElementGuid>56d58574-1fcc-445f-a3ed-466da38b05b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::td[5]</value>
+      <webElementGuid>46e7e897-9542-4956-98a5-996478c4bbe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Report Source - For Testing Only'])[1]/preceding::td[3]</value>
+      <webElementGuid>26e811c5-f320-44d5-80c8-559ddde6289d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr[4]/td[2]</value>
+      <webElementGuid>1e4132e7-5656-47a4-867d-db237728fb6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

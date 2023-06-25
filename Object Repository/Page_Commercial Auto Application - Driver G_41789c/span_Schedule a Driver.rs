@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Schedule a Driver</name>
+   <tag></tag>
+   <elementGuidId>98482e82-ac66-4665-8193-938e8fa3b96f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#hmi-button-schedule-driverinfo > span.ui-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='hmi-button-schedule-driverinfo']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93f0fe85-afbd-41f8-b940-4348f2bdb345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>efd58fea-9bb0-4b8a-9e7a-efaddc622a54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Schedule a Driver</value>
+      <webElementGuid>a953da60-6a19-4632-a7c6-b0a5d0640aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmi-button-schedule-driverinfo&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>3b2a8936-87f1-4e6f-b586-1fd78120f702</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='hmi-button-schedule-driverinfo']/span[2]</value>
+      <webElementGuid>3695e9af-20b1-42fb-9b7e-09f2728cdf41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please schedule all Driver Information'])[1]/following::span[2]</value>
+      <webElementGuid>c938449f-710d-4295-abd5-6e763aa52cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule a Driver'])[1]/following::span[2]</value>
+      <webElementGuid>4053ef6f-ce7e-439c-b50d-d3808e800603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Covered Auto Symbols'])[1]/preceding::span[2]</value>
+      <webElementGuid>a46da073-f052-43a8-8221-5ee2934aef07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sch']/parent::*</value>
+      <webElementGuid>51b1f493-bf67-4f3f-8efa-7ce4f37b04db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div[2]/div/table/tbody/tr/td/a/span[2]</value>
+      <webElementGuid>3681485f-77cf-4ed5-b234-b77d4efa76ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Schedule a Driver' or . = 'Schedule a Driver')]</value>
+      <webElementGuid>8b7e59a7-48f6-4585-bc17-19a0b807844e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_0077 - CONVENTS OR MONASTERIES - UP TO _bbc68d</name>
+   <tag></tag>
+   <elementGuidId>7248d764-80a0-4ab0-9e27-5c9abad8335e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='- CONVENTS OR MONASTERIES - UP TO 10 UNITS']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4e8fc22-6119-485b-90cc-a47a1b2c2c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>0077 - CONVENTS OR MONASTERIES - UP TO 10 UNITS</value>
+      <webElementGuid>82ad51db-c558-4f55-8f3c-d840fb86fd92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selected</value>
+      <webElementGuid>763b2de3-5f13-424d-b24f-4514f98651ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0077 - CONVENTS OR MONASTERIES - UP TO 10 UNITS</value>
+      <webElementGuid>dd9f6220-84f1-4762-99fe-0633422fe62a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Autocomplete_c12f2&quot;)/div[@class=&quot;selected&quot;]</value>
+      <webElementGuid>cac5815e-dffe-4f0c-b104-b943cec16e71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Autocomplete_c12f2']/div</value>
+      <webElementGuid>3f26c81d-2a0d-4f5d-bdac-f94afea0e810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'Autocomplete_c12f2', '&quot;', ')/div[1]')])[1]/preceding::div[1]</value>
+      <webElementGuid>2acaf645-7425-4857-9cc6-0767e55ad19c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='- CONVENTS OR MONASTERIES - UP TO 10 UNITS']/parent::*</value>
+      <webElementGuid>a9357eb4-a36f-4112-bd2f-68de742590fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>25fdaaff-2355-429b-a1ce-20ee99e06d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '0077 - CONVENTS OR MONASTERIES - UP TO 10 UNITS' and (text() = '0077 - CONVENTS OR MONASTERIES - UP TO 10 UNITS' or . = '0077 - CONVENTS OR MONASTERIES - UP TO 10 UNITS')]</value>
+      <webElementGuid>ffeeb77c-d726-4ca5-bc30-f217bc78f821</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
