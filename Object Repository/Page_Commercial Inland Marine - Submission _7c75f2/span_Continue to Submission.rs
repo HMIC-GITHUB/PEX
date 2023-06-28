@@ -6,12 +6,12 @@
    <elementGuidId>8120be47-6b4a-41d8-9eab-12a52f76aba6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.button-trigger-validate.hmi-button-navigateAndGo.ui-button-text-icons.ui-state-hover > span.ui-button-text</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit to Hastings Mutual as'])[1]/following::span[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[2]/div/form/div[3]/div/table[2]/tbody/tr/td/button/span[2]</value>
+         <key>CSS</key>
+         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.button-trigger-validate.hmi-button-navigateAndGo.ui-button-text-icons.ui-state-hover > span.ui-button-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

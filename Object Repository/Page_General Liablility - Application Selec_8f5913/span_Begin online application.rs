@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[2]/div/form/div/table/tbody/tr/td[3]/a/span[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/following::span[2]</value>
       </entry>
       <entry>
          <key>CSS</key>

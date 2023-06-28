@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='saveRecreationalVehicle']/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility Zip Code'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

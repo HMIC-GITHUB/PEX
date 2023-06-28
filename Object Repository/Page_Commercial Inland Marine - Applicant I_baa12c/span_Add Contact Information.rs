@@ -6,12 +6,12 @@
    <elementGuidId>1e8eacd1-422b-45d2-9586-0f705cc027fd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.ui-button.ui-widget.ui-state-default.ui-corner-all.add-item.ui-button-text-icon-primary.ui-state-hover > span.ui-button-text</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Please provide contact information for both Inspections and Accounting Records.'])[1]/following::span[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[2]/div[2]/div/div/form/div[6]/div[2]/a/span[2]</value>
+         <key>CSS</key>
+         <value>a.ui-button.ui-widget.ui-state-default.ui-corner-all.add-item.ui-button-text-icon-primary.ui-state-hover > span.ui-button-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

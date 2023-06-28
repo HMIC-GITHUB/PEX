@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[2]/div[2]/div/div/form/div[5]/button[2]/span[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Additional Insured'])[1]/following::span[2]</value>
       </entry>
       <entry>
          <key>CSS</key>

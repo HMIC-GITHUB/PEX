@@ -6,12 +6,12 @@
    <elementGuidId>390c33a2-7488-436d-9343-58c6f3b890b7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.hmi-button-next.hmi-button-navigateAndGo.button-trigger-validate.ui-button-text-icons.ui-state-hover > span.ui-button-text</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::span[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='hmi-layout-mainContent']/div/div[3]/div[3]/form/table/tbody/tr/td[3]/button/span[2]</value>
+         <key>CSS</key>
+         <value>button.ui-button.ui-widget.ui-state-default.ui-corner-all.hmi-button-next.hmi-button-navigateAndGo.button-trigger-validate.ui-button-text-icons.ui-state-hover > span.ui-button-text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

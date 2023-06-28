@@ -6,12 +6,12 @@
    <elementGuidId>1a30dd56-305b-4392-9d01-00581e2fe011</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>td.ui-widget-content.ui-state-default.ui-state-hover > label</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Benefits Liability Information'])[1]/following::label[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='hmi-layout-mainContent']/div/div/div[3]/table/tbody/tr/td[2]/div/form/div/table/tbody/tr[2]/td[2]/label</value>
+         <key>CSS</key>
+         <value>td.ui-widget-content.ui-state-default.ui-state-hover > label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
