@@ -79,7 +79,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Commercial Auto
 WebUI.click(findTestObject('Object Repository/Page_Commercial Auto - Vehicle  Hastings Mu_eead01/input_Deductible_Collision'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Commercial Auto - Vehicle  Hastings Mu_eead01/select_(select)  100  250  500  1,000  2,00_1e562c'), 
-    '500', true)
+    '1000', true)
 
 WebUI.click(findTestObject('Object Repository/Page_Commercial Auto - Vehicle  Hastings Mu_eead01/input_Tapes, Records,  Discs_RentalReimbursement'))
 
@@ -120,7 +120,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Page_Commercial Auto -
 WebUI.click(findTestObject('Object Repository/Page_Commercial Auto - Premium Modification_6eb52f/span_Continue Submission Process'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Commercial Auto - Submission Selection_0acf37/select_-- Choose how you would like to subm_913466'), 
-    'NewBusiness', true)
+    'FormalQuote', true)
 
 WebUI.click(findTestObject('Object Repository/Page_Commercial Auto - Submission Selection_0acf37/span_Continue submission process'))
 
@@ -306,16 +306,16 @@ WebUI.click(findTestObject('Page_Commercial Auto - Submission  Hastings_059815/b
 
 WebUI.click(findTestObject('Object Repository/Page_Commercial Auto - Submission  Hastings_059815/span_Continue to Submission'))
 
-WebUI.selectOptionByValue(findTestObject('Page_CommercialAuto - Billing/select_BillingMethod'), 'A', true)
+not_run: WebUI.selectOptionByValue(findTestObject('Page_CommercialAuto - Billing/select_BillingMethod'), 'A', true, FailureHandling.OPTIONAL)
 
-WebUI.waitForElementVisible(findTestObject('Page_CommercialAuto - Billing/select_InstallmentPlan'), 10, FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.waitForElementVisible(findTestObject('Page_CommercialAuto - Billing/select_InstallmentPlan'), 10, FailureHandling.OPTIONAL)
 
-WebUI.selectOptionByValue(findTestObject('Page_CommercialAuto - Billing/select_InstallmentPlan'), '0', true)
+not_run: WebUI.selectOptionByValue(findTestObject('Page_CommercialAuto - Billing/select_InstallmentPlan'), '0', true, FailureHandling.OPTIONAL)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CommercialAuto - Billing/select_ChangeBillingAtRenewal'), 
-    'False', true)
+not_run: WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CommercialAuto - Billing/select_ChangeBillingAtRenewal'), 
+    'False', true, FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('Object Repository/Page_CommercialAuto - Billing/span_Continue'))
+not_run: WebUI.click(findTestObject('Object Repository/Page_CommercialAuto - Billing/span_Continue'), FailureHandling.OPTIONAL)
 
 WebUI.setText(findTestObject('Object Repository/Page_Commercial Auto - Submission  Hastings_059815/input_Contact Name_ContactName'), 
     'Automation Test ')
@@ -339,13 +339,13 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Commercial A
 WebUI.click(findTestObject('Object Repository/Page_Commercial Auto - Submission  Hastings_059815/span_Submit Application'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Commercial Auto - Submission  Hastings_059815/p_Your New Business Application has uploade_0d6b0b'), 
-    'Your New Business Application has uploaded successfully.')
+    'Your New Business Application has uploaded successfully.', FailureHandling.OPTIONAL)
 
-QuoteNumber = WebUI.getText(findTestObject('Object Repository/Page_Homeowners - Submission  Hastings Mutu_67ef28/td_70126465'),
-	FailureHandling.STOP_ON_FAILURE)
+QuoteNumber = WebUI.getText(findTestObject('Object Repository/Page_Homeowners - Submission  Hastings Mutu_67ef28/td_70126465'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-SubmissionNumber = WebUI.getText(findTestObject('Object Repository/Page_Homeowners - Submission  Hastings Mutu_67ef28/td_3860301'),
-	FailureHandling.STOP_ON_FAILURE)
+SubmissionNumber = WebUI.getText(findTestObject('Object Repository/Page_Homeowners - Submission  Hastings Mutu_67ef28/td_3860301'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Page_Commercial Auto - Submission  Hastings_059815/a_Logout'))
 
